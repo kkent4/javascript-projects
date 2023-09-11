@@ -1,4 +1,4 @@
-console.log("Some Programming Languages:\tPython\tJavaScript\tJava\tC#\tSwift");
+console.log("Some Programming Languages:Python\tJavaScript\tJava\tC#\tSwift");
 
 
                    
